@@ -2,7 +2,7 @@
 const axios = require('axios');
 
 // Class that checks the status of a drupal module for Drupal 10 compatibility
-class Check
+class CheckDrupalModuleCompatibility
 {
 
   // Function that checks the status of a single module
